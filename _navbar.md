@@ -1,0 +1,4 @@
+- Information
+  - [Hem](/)
+  - [Kontroller](/Kontroller)
+  - [Telefonen](/Telefonen)
