@@ -1,3 +1,4 @@
 - [Tillbaka](/)
 - [Changelogs](/Changelogs/)
+- [Patch-2021.01.15a](/Changelogs/Patch-2021.01.15a.md)
 - [Patch-2021.01.11a](/Changelogs/Patch-2021.01.11a.md)
