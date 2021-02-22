@@ -12,7 +12,7 @@ I Maffian så tar man hand om [Pengartvätten](Pengartvätt.md), det innebär at
 
 Vagos har en liten värksamhet där de säljer vapen, de kan sälja knivar, pistoler och smg:er.
 
-**Nuvarande Boss**: koffe#2554
+**Nuvarande Boss**: P0tatispojken#9983
 
 ## Lost MC
 

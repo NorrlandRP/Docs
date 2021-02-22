@@ -23,7 +23,7 @@ Som sjukvårdare tar man [112 samtal](Telefonen.md#112) till ambulansen. Sedan f
 Skulle personen vara död tar man in den till Pillbox och lägger den i obduktions rummet, där får personen sedan vänta på respawn.
 Efter ett sådant scenario kommer personen i fråga inte ihåg något.
 
-**Nuvarande Chef**: dumlaxjäveln#6575
+**Nuvarande Chef**: Vincent/ from sweden#7213
 
 ## Bankman
 
@@ -73,7 +73,7 @@ Alla poliser i tjänst kan sätta handfängsel, stoppa in folk i bilar, ta ut fo
 
 Polisstationen hittar man mitt i staden.
 
-**Nuvarande Chef**: _Ingen_
+**Nuvarande Chef**: dumlaxjävel#6575
 
 ## Mäklare
 
